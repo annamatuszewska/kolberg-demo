@@ -3,7 +3,8 @@ layout: default
 title: Kolberg Demo
 ---
 
-# Kolberg Demo
+# Visual presentation and exploration of musical corpora
+## Case Study: Oskar Kolberg’s Opera Omnia
 
 Link to the Project:
 
